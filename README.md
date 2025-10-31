@@ -1,2 +1,2 @@
-# digital-webpage
+# digitalwebpage
 website
